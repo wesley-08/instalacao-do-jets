@@ -28,6 +28,7 @@ instalar na raiz
 {
     "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
+
 10- passo
  npm install --save-dev @babel/preset-env @babel/preset-react
 
